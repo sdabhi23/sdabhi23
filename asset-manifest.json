@@ -1,14 +1,14 @@
 {
-  "main.css": "static/css/main.29252e26.css",
-  "main.css.map": "static/css/main.29252e26.css.map",
-  "main.js": "static/js/main.a3d89fc3.js",
-  "main.js.map": "static/js/main.a3d89fc3.js.map",
+  "main.css": "static/css/main.fc4a1f35.css",
+  "main.css.map": "static/css/main.fc4a1f35.css.map",
+  "main.js": "static/js/main.cc32ebba.js",
+  "main.js.map": "static/js/main.cc32ebba.js.map",
+  "static\\media\\bosch.png": "static/media/bosch.cdf07606.png",
   "static\\media\\contact_header.png": "static/media/contact_header.38d9cacd.png",
-  "static\\media\\hasura.png": "static/media/hasura.16d5e036.png",
   "static\\media\\logo-alt.png": "static/media/logo-alt.4ca98a06.png",
   "static\\media\\main.jpg": "static/media/main.12e5aa6b.jpg",
-  "static\\media\\roboto.woff2": "static/media/roboto.55536c8e.woff2",
   "static\\media\\shrey_resume.pdf": "static/media/shrey_resume.a27c83d0.pdf",
-  "static\\media\\silverwings.png": "static/media/silverwings.447f0664.png",
-  "static\\media\\tillana.woff2": "static/media/tillana.147525a9.woff2"
+  "static\\media\\taaraka.jfif": "static/media/taaraka.93f3129c.jfif",
+  "static\\media\\tillana.woff2": "static/media/tillana.993489aa.woff2",
+  "static\\media\\ubuntu.woff2": "static/media/ubuntu.16a73d94.woff2"
 }
